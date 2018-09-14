@@ -2,7 +2,7 @@
 <widget id="com.markpoint.ru" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TVF</name>
     <description>
-
+      Это Тантум Верде Форте
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
