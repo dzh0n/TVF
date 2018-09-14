@@ -1,0 +1,25 @@
+html {
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+}
+body {
+    background-color: #000;
+    width: 100%;
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+}
+.gif {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.gif img {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
