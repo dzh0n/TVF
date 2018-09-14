@@ -10,6 +10,10 @@
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Fullscreen" value="true" />
+    <preference name="orientation" value="landscape"/>
     <preference name="android-minSdkVersion" value="14" />
-    <icon src="icon.png" />
+    <icon src="www/icon.png" />
+    <platform name="android">
+        <icon src="www/icon.png" density="ldpi" />
+    </platform>
 </widget>
