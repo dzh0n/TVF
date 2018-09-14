@@ -11,4 +11,5 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Fullscreen" value="true" />
     <preference name="android-minSdkVersion" value="14" />
+    <icon src="icon.png" />
 </widget>
